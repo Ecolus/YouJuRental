@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="house_types">
+        <item>不限</item>
+        <item>1室0厅</item>
+        <item>1室1厅</item>
+        <item>2室1厅</item>
+        <item>2室2厅</item>
+        <item>3室1厅</item>
+        <item>3室2厅</item>
+        <item>4室2厅</item>
+    </string-array>
+
+    <string-array name="rent_types">
+        <item>不限</item>
+        <item>整租</item>
+        <item>合租</item>
+    </string-array>
+
+    <string-array name="decoration_types">
+        <item>不限</item>
+        <item>精装修</item>
+        <item>简装修</item>
+        <item>毛坯</item>
+        <item>豪华装修</item>
+    </string-array>
+
+    <string-array name="orientations">
+        <item>朝南</item>
+        <item>朝北</item>
+        <item>朝东</item>
+        <item>朝西</item>
+        <item>南北通透</item>
+    </string-array>
+
+    <string-array name="districts">
+        <item>不限</item>
+        <item>锦江区</item>
+        <item>青羊区</item>
+        <item>金牛区</item>
+        <item>武侯区</item>
+        <item>成华区</item>
+        <item>高新区</item>
+        <item>天府新区</item>
+        <item>双流区</item>
+        <item>郫都区</item>
+        <item>温江区</item>
+        <item>翠屏区</item>
+        <item>叙州区</item>
+        <item>南溪区</item>
+        <item>涪城区</item>
+        <item>游仙区</item>
+        <item>安州区</item>
+        <item>旌阳区</item>
+        <item>罗江区</item>
+    </string-array>
+
+    <string-array name="price_ranges">
+        <item>不限</item>
+        <item>500元以下</item>
+        <item>500-1000元</item>
+        <item>1000-1500元</item>
+        <item>1500-2000元</item>
+        <item>2000-3000元</item>
+        <item>3000-5000元</item>
+        <item>5000元以上</item>
+    </string-array>
+
+    <string-array name="tags_list">
+        <item>精装修</item>
+        <item>近地铁</item>
+        <item>拎包入住</item>
+        <item>随时看房</item>
+        <item>首次出租</item>
+        <item>押一付一</item>
+    </string-array>
+</resources>
